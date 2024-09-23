@@ -8,7 +8,7 @@ namespace egz1kons
 {
     public class Methods
     {
-        string path = "C:\\Users\\patryk.labuz\\Desktop\\egz1kons\\Data.txt";
+        string path = "Data.txt";
 
         public List<FilmData> GetDataFromTxt()
         {
